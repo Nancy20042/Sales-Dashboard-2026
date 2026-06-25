@@ -125,7 +125,7 @@ The dashboard helps answer questions such as:
 
 ## Dashboard Preview
 
-![Sales Dashboard 2026](dashboard-preview.png)
+![Sales Dashboard 2026](dashboard.png)
 
 ---
 
